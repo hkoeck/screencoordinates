@@ -1,0 +1,8 @@
+{
+  "name": "ScreenCoordinates",
+  "description": "Show Screen Coordinates",
+  "uuid": "screencoordinates@hkoeck.com",
+  "shell-version": [
+    "47"
+  ]
+}
